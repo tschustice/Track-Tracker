@@ -1,2 +1,2 @@
-# Track_Tracker
-Recognition of video data using deep learning 
+# Track Tracker
+Recognition of video data using convolutional neural networks

@@ -26,3 +26,10 @@ Once the input has been inserted, the Track Tracker performs the following tasks
 
 
 <img width="852" alt="Output" src="https://user-images.githubusercontent.com/32552374/198860510-3e867ccb-7800-47c2-8664-62c852de107e.png">
+
+
+## Streamlit
+
+[track_tracker_app · Streamlit.pdf](https://github.com/tschustice/Track-Tracker/files/9894985/track_tracker_app.Streamlit.pdf)
+
+

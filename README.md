@@ -1,5 +1,5 @@
 # Track Tracker
-Recognition of video data using a trained convolutional neural network
+Recognition of video data using convolutional neural network
 
 ## Introduction
 
